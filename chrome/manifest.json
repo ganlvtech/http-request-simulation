@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "模拟页面操作demo",
+    "description": "以http://ssfw.xjtu.edu.cn/为例，讲解Chrome插件模拟页面操作的方法",
+    "version": "1.0.0",
+    "permissions": [
+        "http://ssfw.xjtu.edu.cn/*"
+    ],
+    "content_scripts": [{
+        "matches": [
+            "http://ssfw.xjtu.edu.cn/*"
+        ],
+        "js": [
+            "demo.js"
+        ]
+    }]
+}
