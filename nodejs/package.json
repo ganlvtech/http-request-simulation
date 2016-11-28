@@ -1,0 +1,25 @@
+{
+  "name": "http-request-simulation",
+  "version": "1.0.0",
+  "description": "HTTP Request Simulation in Node.js",
+  "main": "demo.js",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganlvtech/http-request-simulation/"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "simulation",
+    "demo"
+  ],
+  "author": "Ganlv",
+  "license": "AGPL-3.0"
+}
