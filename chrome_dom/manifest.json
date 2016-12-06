@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "模拟页面操作demo",
+    "name": "模拟DOM操作Demo",
     "description": "以http://ssfw.xjtu.edu.cn/为例，讲解Chrome插件模拟页面操作的方法",
     "version": "1.0.0",
     "permissions": [
